@@ -8,8 +8,7 @@ def get_energy_stocks():
 
     filters_dict = {
         'Sector': 'Energy',
-        'Price': 'Over $5',
-        'Exchange': 'NASDAQ'
+        'Price': 'Over $5'
     }
     output_path = Path("data") / "energy_tickers.txt"
     output_path.parent.mkdir(parents=True, exist_ok=True)
