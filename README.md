@@ -74,6 +74,7 @@ MSE446-FinML/
 
     Logistic Regression: Open and run LR_model.ipynb in Jupyter
     SVM: Open and run model/svm_model.ipynb in Jupyter
+    Random forest: Open and run model/random_forest.ipynb in Jupyter
     LSTM: Open and run lstm_model/main.ipynb in Jupyter
     
     Gradient Boosting (XGBoost):
