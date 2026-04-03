@@ -20,10 +20,10 @@ This downloads market data via Yahoo Finance, constructs features (macro indicat
 
 ### 3. Run the Models
 
-LSTM: Open and run `lstm_model/main.ipynb` in Jupyter.
-SVM: Open and run `model/svm_model.ipynb` in Jupyter.
-Gradient Boosting (XGBoost): Run `python GradientBoosting/train_gb.py`
-Random Forest: Open and run `model/random_forest.ipynb` in Jupyter
+* LSTM: Open and run `lstm_model/main.ipynb` in Jupyter.
+* SVM: Open and run `model/svm_model.ipynb` in Jupyter.
+* Gradient Boosting (XGBoost): Run `python GradientBoosting/train_gb.py`
+* Random Forest: Open and run `model/random_forest.ipynb` in Jupyter
 
 ## Dependencies
 
